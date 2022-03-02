@@ -75,3 +75,11 @@ Discussion Points:
     c. Startup with no specific team make up. It’s just a group of 8 developers.
     d. SME with multiple small team of developers (4 teams of 3 developers)
     e. MNC & Banking with multiple large team of developers (10 teams of 12 developers)
+
+
+group 1
+Farhan
+Alex
+Yvonne
+Daniel
+Amy
