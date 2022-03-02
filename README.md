@@ -1,10 +1,12 @@
 # Group-1-Assignment-2.1
 Group discussion 2.1
 
+Testing daniel
+
+
 # GIT & CLI: Assignment
 
 ## Brief 
-
 This is a research assignment where students will be given time for research and put into group for discussion.
 
 Version control tools are plenty and have wide range of practices. This research assignment aims to help learners expand their choice of version control tools (Part 1) and being acquainted with the branching strategies best practices in the industry (Part 2).
