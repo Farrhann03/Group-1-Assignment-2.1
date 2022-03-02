@@ -94,15 +94,25 @@ Discussion Points:
 - Feature branch seems the most practical to me personally if working in a smaller group cause there's not much opened branches before merging everything.
 
 1. Consider the following scenarios, recommend a branching strategy suitable for the scenario, and explain why?
+   
    a. Startup with less than 5 developers
+   
    - Hotfix branch, is easier to control since there are lesser team members and it's easier to manage the pushes within the group.
-     b. Startup with multiple small team of developers (3 teams of 3 developers)
+     
+   b. Startup with multiple small team of developers (3 teams of 3 developers)
+   
    - Develop branch, having a develop branch will ease the control within the teams before actually pushing it to the main/master branch.
-     c. Startup with no specific team make up. It’s just a group of 8 developers.
+   
+   c. Startup with no specific team make up. It’s just a group of 8 developers.
+   
    - Feature branch, it will be easier to manage the number of pushes from the number of developers directly to main before merging everything together.
-     d. SME with multiple small team of developers (4 teams of 3 developers)
+   
+   d. SME with multiple small team of developers (4 teams of 3 developers)
+   
    - Develop branch, likewise to 3 teams of 3 developers, having a develop branch will be easier to a manage the developers code before merging to main.
-     e. MNC & Banking with multiple large team of developers (10 teams of 12 developers)
+   
+   e. MNC & Banking with multiple large team of developers (10 teams of 12 developers)
+   
    - Release branch, due to the amount of teams and members having a secondary develop branch before even merging to main makes it easier to control and manage code.
 
 
