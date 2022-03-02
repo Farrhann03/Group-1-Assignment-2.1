@@ -60,6 +60,14 @@ Reference Links:
 - https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
 - https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344
 
+Group 1 (Flappy team)
+Team members 
+- Alex
+- Yvonne
+- Amy 
+- Daniel
+- Farhan
+
 Discussion Points:
 
 1. How many branching strategies are there? What are they?
@@ -77,8 +85,7 @@ Discussion Points:
 - Git seems the most practical in terms of managing and adding codes with other team members or people and is integrated to github itself which makes it easy to manage the main file itself.
 
 1. Consider the following scenarios, recommend a branching strategy suitable for the scenario, and explain why?
-   a. Startup with less than 5 developers
-   b. Startup with multiple small team of developers (3 teams of 3 developers)
-   c. Startup with no specific team make up. It’s just a group of 8 developers.
-   d. SME with multiple small team of developers (4 teams of 3 developers)
-   e. MNC & Banking with multiple large team of developers (10 teams of 12 developers)
+
+
+
+
