@@ -2,6 +2,13 @@
 
 Group discussion 2.1
 
+Group members:
+Yvonne
+Daniel Tan
+Alex
+Amy
+Farhan
+
 # GIT & CLI: Assignment
 
 ## Brief
