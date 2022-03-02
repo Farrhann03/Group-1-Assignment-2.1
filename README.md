@@ -18,6 +18,14 @@ Version control tools are plenty and have wide range of practices. This research
 | 30 mins | Discussion    |
 | 30 mins | Presentation  |
 
+Group 1 (Flappy team)
+Team members 
+- Alex
+- Yvonne
+- Amy 
+- Daniel
+- Farhan
+
 ### Part 1
 
 Problem Statement: GIT is not the only version control tool in the industry.
@@ -60,13 +68,6 @@ Reference Links:
 - https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
 - https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344
 
-Group 1 (Flappy team)
-Team members 
-- Alex
-- Yvonne
-- Amy 
-- Daniel
-- Farhan
 
 Discussion Points:
 
